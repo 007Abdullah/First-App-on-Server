@@ -30,7 +30,7 @@ ask your friend to access your server by writing your ip address in their browse
 
 try changing server code a little bit and see what happens
 
-create Procfile file and write web: node <filename>
+create Procfile file and write web: node <filename>.js
 
 create .gitignore file and write [/node_modules]
 
